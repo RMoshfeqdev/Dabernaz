@@ -1,0 +1,7 @@
+{
+  "name": "dabernaz-game-club",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dabernaz responsive Persian game club demo",
+  "scripts": { "start": "node server.js" }
+}
